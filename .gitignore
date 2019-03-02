@@ -1,0 +1,12 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+*.DS_Store
+*.gem
+.bundle
+.sass-cache
+_site
+Gemfile.lock

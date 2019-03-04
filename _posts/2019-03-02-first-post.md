@@ -1,7 +1,7 @@
 ---
 layout: post
-title: sample post
-tags: [sample, test]
+title: github.io 블로그 만들기
+tags: [Jekyll, MarkDown]
 ---
  
-첫번째 포스트는 sample 포스트 입니다.
+업데이트 예정입니다.

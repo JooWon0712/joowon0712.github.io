@@ -5,12 +5,16 @@ categories: Jekyll, Google Analytics
 tags: [Kotlin, Spring Boot, Rest API]
 ---
 
-**Kotlin**과 **Spring Boot**를 이용한 **Rest API** 서버를 만들어 보려고 합니다.
+**Kotlin**과 **Spring Boot**를 이용한 **Rest API** 서버를 만들기-1
 
 이번 포스팅에선 간단한 Controller 생성과 테스트로 시작해보겠습니다.
 
 - IDE : Intellij IDEA  Ultimate 2018.3.5
 - Build : Maven
+
+### github 주소
+- 계속해서 작성한 전체 소스는 아래 참고해주세요.
+    - <https://github.com/JooWon0712/rest-api-with-springboot-kotlin>
 
 ### Spring Initializer를 이용한 프로젝트 생성
 - New Project -> Spring Initializer 선택
@@ -108,10 +112,10 @@ class HelloControllerTests {
 
 ### 번외
 
-- **spring.io**에서 Kotlin과 Spring Boot를 이용하여 웹어플리케이션을 만드는 공식 튜토리얼 문서가 있습니다.
+- **spring.io**에서 Kotlin과 Spring Boot를 이용하여 웹어플리케이션을 만드는 공 튜토리얼 문서가 있습니다.
     - <https://spring.io/guides/tutorials/spring-boot-kotlin/>
 
-해당 튜토리얼 문서를 보면서 따라하다보면 **spring-boot-starter-test**에서 기본적으로 제공되는 **junit4**의 의존성을 제외하고, **junit5**를 의존성을 설정하라고 나옵니다.
+튜토리얼 문서를 보면서 따라하다보면 **spring-boot-starter-test**에서 기본적으로 제공되는 **junit4**의 의존성을 제외하고, **junit5**를 의존성을 별도로 설정하라고 나옵니다.
 처음엔 튜토리얼에서 가이드 해주는것처럼 따라서 해보았지만, 테스트로 만든 컨트롤러를 **MockMvc**로 테스트 하려고 해보았지만, **junit5**에서 오류가 발생하는 원인을 찾지 못해 **junit4**로 테스트 케이스를 작성하였습니다.
 
 - junit4, junit5의 의존성 설정(백기선님의 유튜브)

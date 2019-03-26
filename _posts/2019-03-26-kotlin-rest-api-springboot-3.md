@@ -361,6 +361,15 @@ fun getAccounts() {
 
 ### 번외
 
+아래 링크는 HTTP 응답 코드에 대해서 한번쯤 보시면 좋은 링크 및 동영상입니다.
+
+- HTTP 상태 코드
+    - <https://ko.wikipedia.org/wiki/HTTP_%EC%83%81%ED%83%9C_%EC%BD%94%EB%93%9C>
+- [동네개발자형] 서버가 요청을 거부했는데 http status 403이 아닌 404로 return 한다고?
+    - <https://youtu.be/cE11144NEts>
+    
+-------------------
+
 간단하게나마 코틀린과 Spring Boot를 이용하여 Restful한 API를 만들어 보는 방법을 포스팅 해보았습니다.
 Restful하게 만들어보려고 했지만, 아직 **self-descriptive**에 대한 부분이 빠져있습니다.
 이 부분은 현재 작성된 API에 대한 **Rest API Document**를 생성하여 해당 API 프로파일 정보를 넘겨주면 해결할 수 있습니다.

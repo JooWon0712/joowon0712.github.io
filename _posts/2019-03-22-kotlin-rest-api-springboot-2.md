@@ -7,7 +7,7 @@ tags: [Kotlin, Spring Boot, Rest API]
 
 **Kotlin**과 **Spring Boot**를 이용한 **Rest API** 서버를 만들기-2
 
-이번 포스팅에선 간단한 계정 정보와 계정 정보에 접근 할 수 있는 간단한 API를 만들어 보겠습니다.
+이번 포스팅에선 간단한 계정 정보를 생성하는 간단한 API를 만들어 보겠습니다.
 
 앞의 시간에서 소개해 드렸어야했는데, Restful한 API가 어떤건지에 대한 소개 영상입니다.
 - **그런 REST API로 괜찮은가**

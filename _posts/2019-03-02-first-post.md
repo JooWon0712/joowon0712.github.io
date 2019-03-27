@@ -2,6 +2,8 @@
 layout: post
 title: github.io 블로그 만들기
 tags: [Jekyll, type-theme]
+categories: Jekyll
+comments: true
 ---
 
 <code class="highlight">Jekyll</code>테마중 <code class="highlight">type-theme</code>를 이용하여 블로그를 만들어보려고 합니다.

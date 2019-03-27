@@ -1,8 +1,9 @@
 ---
 layout: post
 title: MarkDown 코드 블럭 스타일 변경
-categories: Jekyll, MarkDown
+categories: Jekyll
 tags: [Jekyll, MarkDown, type-theme]
+comments: true
 ---
 
 <code class="highlight">Jekyll</code>테마중 <code class="highlight">type-theme</code>를 이용하여 블로그를 만들었습니다. 블로그를 만들고 코드블럭에 소스 코드를 붙여 넣었는데 블로그 배경색과 코드 블랙 배경색이 동일하여 가독성이 떨어져보였습니다.

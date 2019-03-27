@@ -1,8 +1,9 @@
 ---
 layout: post
 title: github 블로그 방문자수 확인
-categories: Jekyll, Google Analytics
+categories: Jekyll
 tags: [Jekyll, type-theme, Google Analytics]
+comments: true
 ---
 
 자신의 <code class="highlight">GitHub 블로그</code> 방문자 수를 확인할 수 있는 방법을 포스팅해봅니다.

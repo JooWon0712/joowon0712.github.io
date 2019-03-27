@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Kotlin과 Spring Boot를 이용한 Rest API 만들기-3
-categories: Jekyll, Google Analytics
+categories: Kotlin
 tags: [Kotlin, Spring Boot, Rest API]
+comments: true
 ---
 
 **Kotlin**과 **Spring Boot**를 이용한 **Rest API** 서버를 만들기-3

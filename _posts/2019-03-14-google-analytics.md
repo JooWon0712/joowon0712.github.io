@@ -2,7 +2,7 @@
 layout: post
 title: github 블로그 방문자수 확인
 categories: Jekyll
-tags: [Jekyll, type-theme, Google Analytics]
+tags: [Jekyll]
 comments: true
 ---
 

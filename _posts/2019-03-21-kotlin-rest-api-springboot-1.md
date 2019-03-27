@@ -2,7 +2,7 @@
 layout: post
 title: Kotlin과 Spring Boot를 이용한 Rest API 만들기-1
 categories: Kotlin
-tags: [Kotlin, Spring Boot, Rest API]
+tags: [Kotlin]
 comments: true
 ---
 

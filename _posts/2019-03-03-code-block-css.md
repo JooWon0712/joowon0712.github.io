@@ -2,7 +2,7 @@
 layout: post
 title: MarkDown 코드 블럭 스타일 변경
 categories: Jekyll
-tags: [Jekyll, MarkDown, type-theme]
+tags: [Jekyll]
 comments: true
 ---
 

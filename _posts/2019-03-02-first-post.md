@@ -1,8 +1,8 @@
 ---
 layout: post
-title: github.io 블로그 만들기
+title: github 블로그 만들기
 categories: Jekyll
-tags: [Jekyll, type-theme]
+tags: [Jekyll]
 comments: true
 ---
 

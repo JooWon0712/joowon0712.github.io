@@ -2,7 +2,7 @@
 layout: post
 title: github 블로그 폰트 변경하기
 categories: Jekyll
-tags: [Jekyll, type-theme, Google Fonts]
+tags: [Jekyll]
 ---
 
 Google Fonts로 github 블로그 폰트 변경하기

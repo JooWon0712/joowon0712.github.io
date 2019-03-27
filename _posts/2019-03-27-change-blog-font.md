@@ -1,11 +1,11 @@
 ---
 layout: post
-title: github.io 블로그 폰트 변경하기
+title: github 블로그 폰트 변경하기
 categories: Jekyll, Google Analytics
 tags: [Jekyll, type-theme, Google Fonts]
 ---
 
-Google Fonts로 github.io 블로그 폰트 변경하기
+Google Fonts로 github 블로그 폰트 변경하기
 
 구글에서 저작권 걱정없이 오픈라이센스로 제공되는 한글폰트는 25개가 있습니다.(**2019.03.27 기준**)
 

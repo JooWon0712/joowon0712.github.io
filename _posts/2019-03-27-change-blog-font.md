@@ -1,7 +1,7 @@
 ---
 layout: post
 title: github 블로그 폰트 변경하기
-categories: Jekyll, Google Analytics
+categories: Jekyll
 tags: [Jekyll, type-theme, Google Fonts]
 ---
 

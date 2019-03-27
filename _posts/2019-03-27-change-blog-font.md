@@ -43,7 +43,7 @@ Google Fonts로 github.io 블로그 폰트 변경하기
 그러면 아래와 같이 **1 Family Selected**라는 팝업창이 생깁니다.
 그 파업 창을 클릭합니다. 
 
-![google-fonts-com-Noto-Sans-KR-select]({{ site.baseurl }}/assets/img/google-fonts-com-font-Noto-Sans-KR-select.png)
+![google-fonts-com-Noto-Sans-KR-select]({{ site.baseurl }}/assets/img/google-fonts-com-Noto-Sans-KR-select.png)
 
 해당 폰트를 적용하는 방법이 나옵니다.
 
